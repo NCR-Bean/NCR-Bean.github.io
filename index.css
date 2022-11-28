@@ -1,0 +1,12 @@
+/* change background colour to blue  */
+body {
+    background-color: #191919;
+}
+/* change text to white */
+body {
+    color: #fff;
+}
+/* change text font to lexend */
+body {
+    font-family: 'Lexend', sans-serif;
+}
