@@ -1,1 +1,0 @@
-# NCR-Bean.github.io
